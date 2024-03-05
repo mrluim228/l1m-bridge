@@ -1,0 +1,22 @@
+{
+  "name": "l1m-bridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5",
+    "stylelint": "^16.2.1",
+    "typescript": "^5.3.3",
+    "vite": "^5.1.5",
+    "webpack": "^5.90.3"
+  }
+}
+"repository": "https://github.com/mrluim228/l1m-bridge",
