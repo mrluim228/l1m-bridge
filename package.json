@@ -16,7 +16,7 @@
     "stylelint": "^16.2.1",
     "typescript": "^5.3.3",
     "vite": "^5.1.5",
+    "repository": "https://github.com/mrluim228/l1m-bridge",
     "webpack": "^5.90.3"
   }
 }
-"repository": "https://github.com/mrluim228/l1m-bridge",
